@@ -37,4 +37,4 @@ Para este projeto, foram aplicados os seguintes pilares da programação:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/dinarteefilho/desafio-de-projeto-DIO](https://github.com/dinarteefilho/desafio-de-projeto-DIO)
+   git clone https://github.com/dinarteefilho/desafio-de-projeto-DIO.git
